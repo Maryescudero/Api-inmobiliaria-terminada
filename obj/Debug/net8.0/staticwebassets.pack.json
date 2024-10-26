@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\3d-illustration-avatar-profile-man-collection-guy-cheerful_716220_wh860.png",
+      "PackagePath": "staticwebassets\\img\\uploads\\3d-illustration-avatar-profile-man-collection-guy-cheerful_716220_wh860.png"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa1.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\casa1.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa2.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\casa2.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa3.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\casa3.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa4.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\casa4.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa5.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\casa5.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\dpto.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\dpto.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\dpto1.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\dpto1.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\dpto2.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\dpto2.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\local.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\local.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\local1.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\local1.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\local3.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\local3.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\perfil.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil1.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\perfil1.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil2.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\perfil2.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil3.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\perfil3.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\quinta.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\quinta.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\quinta1.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\quinta1.jpg"
+    },
+    {
+      "Id": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\quinta2.jpg",
+      "PackagePath": "staticwebassets\\img\\uploads\\quinta2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.inmobiliaria.props",
+      "PackagePath": "build\\inmobiliaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.inmobiliaria.props",
+      "PackagePath": "buildMultiTargeting\\inmobiliaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.inmobiliaria.props",
+      "PackagePath": "buildTransitive\\inmobiliaria.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.inmobiliaria.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

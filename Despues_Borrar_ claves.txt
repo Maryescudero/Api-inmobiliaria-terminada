@@ -1,0 +1,11 @@
+token Juan  
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6Imp1YW5AZ21haWwuY29tIiwicm9sZSI6IlByb3BpZXRhcmlvIiwiaWQiOiI0IiwiRnVsbE5hbWUiOiJqdWFuIG1hbnVlbCBwZXJleiIsIm5iZiI6MTcyOTkxMDUxMSwiZXhwIjoxNzMwMzQyNTExLCJpYXQiOjE3Mjk5MTA1MTF9.yz_LpcVIvHdwnKfzOb9bPGhl6Prl7LXuU5OuivKxbJM
+
+ correo: juan@gmail.com
+pass:$2a$12$d6u2uwMNWRH.DdkZIcQS2eWjvnHEUyRbHP58ZBl2V0L7PZCWJy2VK  ( clave vieja: pepito24)
+     $2a$11$BeD58Y4V2BkoF/mVXDp4/OrGSIpdcgf3/omp2hjC0oHpNBSv2ZM2.(  clave nueva  OJO LLEVA EL .)
+
+
+
+
+
