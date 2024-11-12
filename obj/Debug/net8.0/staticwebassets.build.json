@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k0khGqVWnZ8rbFFhvXtLZMuaah/UFBZbAXsogS6puJk=",
+  "Hash": "6C14Ej/VYZdde7rxRWKVQy/m5ol5fhZnljsCJjHMJSw=",
   "Source": "inmobiliaria",
   "BasePath": "_content/inmobiliaria",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "inmobiliaria\\wwwroot",
       "Source": "inmobiliaria",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\3d-illustration-avatar-profile-man-collection-guy-cheerful_716220_wh860.png",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\3d-illustration-avatar-profile-man-collection-guy-cheerful_716220_wh860.png",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/3d-illustration-avatar-profile-man-collection-guy-cheerful_716220_wh860.png",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\3d-illustration-avatar-profile-man-collection-guy-cheerful_716220_wh860.png"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa1.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\casa1.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/casa1.jpg",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\casa1.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa2.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\casa2.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/casa2.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\casa2.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa3.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\casa3.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/casa3.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\casa3.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa4.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\casa4.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/casa4.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\casa4.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\casa5.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\casa5.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/casa5.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\casa5.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\dpto.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\dpto.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/dpto.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\dpto.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\dpto1.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\dpto1.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/dpto1.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\dpto1.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\dpto2.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\dpto2.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/dpto2.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\dpto2.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\local.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\local.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/local.jpg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\local.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\local1.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\local1.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/local1.jpg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\local1.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\local3.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\local3.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/local3.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\local3.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\perfil.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/perfil.jpg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\perfil.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil1.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\perfil1.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/perfil1.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\perfil1.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil2.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\perfil2.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/perfil2.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\perfil2.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\perfil3.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\perfil3.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/perfil3.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\perfil3.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\quinta.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\quinta.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/quinta.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\quinta.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\quinta1.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\quinta1.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/quinta1.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\uploads\\quinta1.jpg"
     },
     {
-      "Identity": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\img\\uploads\\quinta2.jpg",
+      "Identity": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\img\\uploads\\quinta2.jpg",
       "SourceId": "inmobiliaria",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\wwwroot\\",
+      "ContentRoot": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\wwwroot\\",
       "BasePath": "_content/inmobiliaria",
       "RelativePath": "img/uploads/quinta2.jpg",
       "AssetKind": "All",

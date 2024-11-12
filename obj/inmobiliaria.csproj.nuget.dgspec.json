@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\inmobiliaria.csproj": {}
+    "D:\\Escudero2024\\Api-inmobiliaria-terminada\\inmobiliaria.csproj": {}
   },
   "projects": {
-    "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\inmobiliaria.csproj": {
+    "D:\\Escudero2024\\Api-inmobiliaria-terminada\\inmobiliaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\inmobiliaria.csproj",
+        "projectUniqueName": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\inmobiliaria.csproj",
         "projectName": "inmobiliaria",
-        "projectPath": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\inmobiliaria.csproj",
-        "packagesPath": "C:\\Users\\marus\\.nuget\\packages\\",
-        "outputPath": "D:\\archivosULP\\cuarto Cuatri\\inmobiliaria\\obj\\",
+        "projectPath": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\inmobiliaria.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "D:\\Escudero2024\\Api-inmobiliaria-terminada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

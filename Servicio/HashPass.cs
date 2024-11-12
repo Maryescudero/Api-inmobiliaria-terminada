@@ -14,6 +14,7 @@ namespace inmobiliaria.Servicio
         public static bool VerificarPassword(string password, string hashedPassword)
         {
             bool result = BCrypt.Net.BCrypt.Verify(password, hashedPassword);
+            
             return result;
         }
     }

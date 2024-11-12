@@ -26,17 +26,17 @@ namespace inmobiliaria.Controllers
             _repositorio = repositorio;
         }
         [HttpPost]
-        //https://localhost:5001/api/login (abro sesion)
+        //http://localhost:500/api/login (abro sesion)
         public IActionResult Post(LoginModel loginModel)
         {
 #pragma warning disable CS8604 // Posible argumento de referencia nulo
 
             // Verifico si los valores  llegan correctamente
-            Console.WriteLine($"Email ingresado: {loginModel.Email}");
-            Console.WriteLine($"Password ingresada: {loginModel.Password}");
+            Console.WriteLine($"email ingresado: {loginModel.email}");
+            Console.WriteLine($"password ingresada: {loginModel.password}");
             try
             {
-                var p = _repositorio.ObtenerPorEmail(loginModel.Email);
+                var p = _repositorio.ObtenerPorEmail(loginModel.email);
 
                 if (p == null)
                 {
@@ -45,19 +45,19 @@ namespace inmobiliaria.Controllers
                 }
                 // lineas de depuracion
                 Console.WriteLine($"Contraseña almacenada: {p.password}");
-                Console.WriteLine($"Contraseña ingresada: {loginModel.Password}");
+                Console.WriteLine($"Contraseña ingresada: {loginModel.password}");
 
                      // Comparacion directa de contraseña (temporal)
-                   if (loginModel.Password == p.password) // Realiza una comparacion directa
-                {
-                    var tokenGenerado = _auth.GenerarToken(p);
-                    return Ok(new { tokenGenerado });
-                }
-                /*if (HashPass.VerificarPassword(loginModel.Password, p.password))
+                   /*if (loginModel.password == p.password) // Realiza una comparacion directa
                 {
                     var tokenGenerado = _auth.GenerarToken(p);
                     return Ok(new { tokenGenerado });
                 }*/
+                if (HashPass.VerificarPassword(loginModel.password, p.password))
+                {
+                    var tokenGenerado = _auth.GenerarToken(p);
+                    return Ok(new { tokenGenerado });
+                }
 
             }
             catch (Exception ex)
@@ -69,7 +69,7 @@ namespace inmobiliaria.Controllers
         }
 
         [HttpGet]
-        //https://localhost:5001/api/login(cieero sesion)
+        //http://localhost:5000/api/login(cieero sesion)
         public IActionResult LogOut()
         {
             return Ok("Sesión cerrada");
